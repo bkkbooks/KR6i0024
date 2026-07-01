@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0024/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 現在賢劫千佛名經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0447a.xml
+    old_id: T14n0447a
+hash: sha256:7e933f71c5024d4ed7d3d885cb09f82ce88688141479a8f743666aa3d44d3980

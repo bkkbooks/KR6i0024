@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0024/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0024/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 現在賢劫千佛名經
+  identifiers:
+    krp: KR6i0024
+    cbeta: T14n0447a
+    cbeta_old_id: T14n0447a
+    authorityid: CA0003556a
+    json_key: T0447a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0447a.xml
+    old_id: T14n0447a
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0024_000-T.yaml, hash: 'sha256:7e933f71c5024d4ed7d3d885cb09f82ce88688141479a8f743666aa3d44d3980'}
+  - {seq: 1, filename: KR6i0024_001-T.yaml, hash: 'sha256:ee17ea4ae28d7c8f8da6bd5cf207a45ce7105a4fecf3a40f19e33238a382a395'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0024_000-T.markers.yaml, hash: 'sha256:105754b057404649ddf89dda5d4254db464979e176f18fab8a734d12803608de'}
+  - {seq: 1, role: markers, filename: assets/KR6i0024_001-T.markers.yaml, hash: 'sha256:bce0d098c3ec529f7f709b8ebc9c6d40786093e63e722fed0250ae7b0e06104b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0024_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10028
+  label: 現在賢劫千佛名經亦名「集諸佛大功德山」
+  type: juan
+  level: 1
+hash: sha256:2e0ab248a15ff06bfd97146c2280a1462defcbdb14f934c9d298fd579b310efd
