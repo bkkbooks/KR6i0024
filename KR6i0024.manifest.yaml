@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0024_000.yaml, hash: 'sha256:7e933f71c5024d4ed7d3d885cb09f82ce88688141479a8f743666aa3d44d3980'}
-  - {seq: 1, filename: KR6i0024_001.yaml, hash: 'sha256:6554949f45d474dbac0db0fbd50e3889cd414f24cb62f7fbec89a328585601f9'}
+  - {seq: 1, filename: KR6i0024_001.yaml, hash: 'sha256:ee17ea4ae28d7c8f8da6bd5cf207a45ce7105a4fecf3a40f19e33238a382a395'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0024_001.markers.yaml, hash: 'sha256:e981aa5e78afb5bbeaa87363bc51cec409dbbc17b912f97834af2124c5ae41ff'}
+  - {seq: 0, role: markers, filename: assets/KR6i0024_000.markers.yaml, hash: 'sha256:9bc7bafade32bb62b6fefa228a8451aa9e675b5e0b820e66229957907aa532b2'}
+  - {seq: 1, role: markers, filename: assets/KR6i0024_001.markers.yaml, hash: 'sha256:245b0ba2877361bc60b7fe7981696cefe29f2feb3c45984bd9f6257f50f153c6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 現在賢劫千佛名經亦名「集諸佛大功德山」
   type: juan
   level: 1
-hash: sha256:2bb26de07399dae5635f2672e79b35eeb99f9558a529a70a99677281bf5b7652
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0f3b857fe8fbf68fd007e94652b33ca6f9d563371f0f602586debe4b6f83c115
