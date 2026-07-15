@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0024/v1
 canonical_location: https://kanripo.org/bkk/KR6i0024/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 現在賢劫千佛名經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0024_000.yaml, hash: 'sha256:7e933f71c5024d4ed7d3d885cb09f82ce88688141479a8f743666aa3d44d3980'}
-  - {seq: 1, filename: KR6i0024_001.yaml, hash: 'sha256:ee17ea4ae28d7c8f8da6bd5cf207a45ce7105a4fecf3a40f19e33238a382a395'}
+  - {seq: 1, filename: KR6i0024_001.yaml, hash: 'sha256:97aee3e6c8b25a6587b3957666d36f00d526747a547e92bad571a727edebde7c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0024_000.markers.yaml, hash: 'sha256:9bc7bafade32bb62b6fefa228a8451aa9e675b5e0b820e66229957907aa532b2'}
-  - {seq: 1, role: markers, filename: assets/KR6i0024_001.markers.yaml, hash: 'sha256:245b0ba2877361bc60b7fe7981696cefe29f2feb3c45984bd9f6257f50f153c6'}
+  - {seq: 1, role: markers, filename: assets/KR6i0024_001.markers.yaml, hash: 'sha256:2053c6d4a8b54e1811c5c5e233e97e30d26240d43d492056ea38e705a0a30f7a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 現在賢劫千佛名經亦名「集諸佛大功德山」
   type: juan
   level: 1
-hash: sha256:0f3b857fe8fbf68fd007e94652b33ca6f9d563371f0f602586debe4b6f83c115
+hash: sha256:f30e8ca083e0ed4aef43e39aaf25b82039d138525467d0e6450712643ae41c4c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
